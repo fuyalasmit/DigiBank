@@ -10,7 +10,7 @@ char AccNumPreFix[8] = "01520521";
 
 struct user usr;
 FILE *fPtr;
-char filename[50] = "Accounts/", hfilename[50] = "Accounts/";
+char filename[50] = "Accounts/", hfilename[50] = "Accounts/";  
 
 // User Data Structure
 struct user
