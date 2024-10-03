@@ -1,5 +1,22 @@
-# Bank Management System
+# DigiBank Management System
 
-### Description
+A simple console-based banking system written in C.
 
-The Bank Management System is a project developed in C language during our first semester. This system provides essential banking functionalities that include account creation, deposit, withdrawal, balance inquiry, and account management. 
+## Features
+- User registration and login
+- Deposit, withdraw, and transfer money
+- Check account details and transaction history
+- Account closure
+
+## Structure
+- `Accounts/`: Stores user data
+- `main.c`: Source code
+- `main.exe`: Executable
+
+## Usage
+Run `main.exe` and follow the on-screen prompts.
+
+## Compile (if needed)
+
+## License
+ISC License
